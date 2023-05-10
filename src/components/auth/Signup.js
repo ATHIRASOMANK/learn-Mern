@@ -39,9 +39,10 @@ const SignUp = () => {
           </div>
 
           <div className="input-field">
-            <div>
-              <label>Enter Your Email:</label>
+            <div className="form-group mt-3">
+              <label className="input-label">Enter Your Email:</label>
               <input
+              className="input-box"
                 type="text"
                 name="email"
                 value={email}
@@ -49,8 +50,9 @@ const SignUp = () => {
               />
             </div>
             <div className="form-group mt-3">
-              <label>Enter Your Password:</label>
+              <label className="input-label">Enter Your Password:</label>
               <input
+              className="input-box"
                 type="password"
                 name="password"
                 value={password}
