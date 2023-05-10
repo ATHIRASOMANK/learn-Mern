@@ -1,0 +1,45 @@
+
+.title{
+    border: 2px solid #eee;
+    padding:5px;
+    margin:10px 0;
+    border-radius:10px;
+    font-size: 25px;
+    font-style:oblique;
+   
+}
+.descrip{
+    border: 2px solid #eee;
+    /* padding:0px; */
+    margin:10px 0;
+    padding:10px;
+    border-radius:10px;
+    font-size: 18px;
+    font-family: inherit;
+}
+    
+
+.content{
+    width: 390px;
+    height: 290px;
+    resize: vertical;
+    padding:15px;
+    border-radius:15px;
+    border:0;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+    font-size: 17px;
+    font-style: inherit
+
+}
+button{
+appearance:none;
+  -webkit-appearance:none;
+  padding:10px;
+  border:none;
+  background-color:#3F51B5;
+  color:#fff;
+  font-weight:600;
+  border-radius:5px;
+  width:86%;
+  margin-bottom: 10px;
+ }

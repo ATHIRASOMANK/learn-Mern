@@ -1,0 +1,69 @@
+.formBox{
+    /* padding:219px 20px 167px 40px;
+    margin-top: -377px; */
+    /* background-color:rgb(72, 164, 177); */
+    /* padding:603px 224px 190px 256px; */
+    text-align: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRYKItiMQai9Q7ft-VdBzVjTIakpIVhZFwf_ABkVShLQ&usqp=CAU&ec=48665701);
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+   font-size: 40px;
+}
+.inputBox{
+    position: relative;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    
+}
+input{
+    position: relative;
+    height: 35px;
+    width: 375px;
+    background: transparent;
+    /* border: none; */
+    /* outline: none; */
+    font-size: 20px;
+    border-bottom: 2px solid rgba(0,0,0,.5);
+    margin-left:85px ;
+    
+}
+.inputText{
+    font-size: 29px;
+    /* font-weight: 500; */
+    color: rgb(243 0 12);
+    text-align: center;
+}
+
+.reg-btt{
+    width: 150px;
+    height: 40px;
+    background: #00bcd4;
+    color: #fff;
+    border-radius: 0;
+    font-size: 20px;
+}
+
+p{
+    font-size: 34px;
+    text-align: center;
+}
+
+.inputb{
+    margin-bottom: 20px;
+    /* padding: 2px 5px; */
+    /* background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000; */
+    
+    
+}

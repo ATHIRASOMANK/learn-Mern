@@ -1,0 +1,62 @@
+  .loginBox{
+    width: 650px;
+    height: 550px;
+    position: absolute;
+    left: 43.5%;
+    top: 37%;
+    /* padding: 603px 224px 190px 256px; */
+    /* background-color:rgb(9, 202, 236); */
+    transform: translate(-30%,-30%);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRge_Sm4_bT_nG3-3yTyvl5cnlu706bBy7v8ToLcx9JZg&usqp=CAU&ec=48665701);
+
+  }
+  h2{
+    /* padding: 0, 0, 170px; */
+    /* margin: 0; */
+    color: brown;
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  .input-field{
+    padding: 1.5rem;
+    text-align: center;
+    display: grid;
+    gap: 10px;
+
+  }
+
+  .form-group{
+    padding-bottom: 20px;
+  }
+
+  label {
+    font-size: 18px;
+    font-weight: 550;
+    color: rgb(192, 21, 78);
+    padding-left: 60px;
+  }
+.reg-bttn{
+margin-top: 7px;
+font-size: 20px;
+
+}
+.leftd{
+  /* float: left; */
+  font-weight: 450;
+  font-size: 27px;
+  margin-left: 265px;
+}
+.btn.btn-info {
+  background-color: blue;
+  margin-bottom: 20px;
+  margin-left: 250px;
+  width: 150px;
+  height: 40px;
+  color: #fff;
+  border-radius: 0;
+  font-size: 20px;
+}
+ 
+  
+  
